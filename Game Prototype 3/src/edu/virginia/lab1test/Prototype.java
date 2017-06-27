@@ -43,7 +43,7 @@ public class Prototype extends Game{
 		background.addChild(rock1);
 		background.addChild(rock2);
 		
-		
+		System.out.println("hello");
 		
 		rock1.setPosx(200);
 		rock1.setPosy(200);
